@@ -1,0 +1,14 @@
+{
+  "name": "salestaxus",
+  "version": "1.0.0",
+  "description": "US sales tax service",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "seneca": "^0.6.1"
+  }
+}
